@@ -6,7 +6,7 @@ You can use the research field for finding a specific news or use the advanced s
 The app is able to refresh the result just using the SwipeRefreshLayout.
 
 Here some screenshot:
-<p align="center">
+<p align="center" style="background-color:red; ">
   <img src="Screenshot_2017-07-14-13-06-24.png" width="250"/>
   <img src="Screenshot_2017-07-14-12-49-22.png" width="250"/>
   <img src="Screenshot_2017-07-14-12-49-45.png" width="250"/>
