@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00064b</color>
+    <color name="colorPrimaryDark">#000433</color>
+    <color name="colorAccent">#9fa8da</color>
+    <color name="colorText">@android:color/black</color>
+    <color name="colorBackground">@android:color/white</color>
+    <color name="colorListBackground">#9fa8da</color>
+    <color name="centerColor_ProgressBar">#802196F3</color>
+</resources>

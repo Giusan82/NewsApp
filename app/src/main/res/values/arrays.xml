@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!---Order by-->
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_relevance_label</item>
+        <item>@string/settings_order_by_most_recent_label</item>
+        <item>@string/settings_order_by_less_recent_label</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_relevance_value</item>
+        <item>@string/settings_order_by_most_recent_value</item>
+        <item>@string/settings_order_by_less_recent_value</item>
+    </string-array>
+    <!--Max Results-->
+    <string-array name="settings_max_results_labels">
+        <item>@string/settings_max_results_10_label</item>
+        <item>@string/settings_max_results_20_label</item>
+        <item>@string/settings_max_results_30_label</item>
+        <item>@string/settings_max_results_40_label</item>
+    </string-array>
+    <string-array name="settings_max_results_values">
+        <item>@string/settings_max_results_10_value</item>
+        <item>@string/settings_max_results_20_value</item>
+        <item>@string/settings_max_results_30_value</item>
+        <item>@string/settings_max_results_40_value</item>
+    </string-array>
+    <!--Section-->
+    <string-array name="settings_section_labels">
+        <item>@string/settings_section_1_label</item>
+        <item>@string/settings_section_2_label</item>
+        <item>@string/settings_section_3_label</item>
+        <item>@string/settings_section_4_label</item>
+        <item>@string/settings_section_5_label</item>
+        <item>@string/settings_section_6_label</item>
+        <item>@string/settings_section_7_label</item>
+        <item>@string/settings_section_8_label</item>
+        <item>@string/settings_section_9_label</item>
+        <item>@string/settings_section_10_label</item>
+    </string-array>
+    <string-array name="settings_section_values">
+        <item>@string/settings_section_1_value</item>
+        <item>@string/settings_section_2_value</item>
+        <item>@string/settings_section_3_value</item>
+        <item>@string/settings_section_4_value</item>
+        <item>@string/settings_section_5_label</item>
+        <item>@string/settings_section_6_label</item>
+        <item>@string/settings_section_7_label</item>
+        <item>@string/settings_section_8_label</item>
+        <item>@string/settings_section_9_label</item>
+        <item>@string/settings_section_10_label</item>
+    </string-array>
+</resources>
