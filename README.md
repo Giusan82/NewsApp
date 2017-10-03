@@ -11,3 +11,4 @@ Here some screenshot:
   <img src="Screenshot_2017-07-14-12-49-22.png" width="250"/>
   <img src="Screenshot_2017-07-14-12-49-45.png" width="250"/>
 </p>
+https://discussions.udacity.com/t/sharing-my-news-app-with-search-field-advanced-search-and-swiperefreshlayou/307977
